@@ -1,4 +1,4 @@
-![image](https://github.com/ybryan95/CIFAR_DBN_Demo/assets/123009743/d9c8a33e-be81-426f-94a2-d9481898e5e5)
+![image](https://github.com/ybryan95/CIFAR_DBN_Demo/assets/123009743/ce70408c-b1ac-4902-b453-bc28e4853e78)
 
 # CIFAR-10 Image Classification with Convolutional Neural Networks (CNN)
 
